@@ -1,3 +1,5 @@
 This is a new file, Dom is the name, chicken nuggets is the game.
 
-Changes mean commits people
+Changes mean commits people.
+
+Comitting every day, i am a human ... i think?
